@@ -4,7 +4,7 @@ Questo repository contiene il codice sorgente del mio programma per calcolare i 
 
 Per maggiori informazioni sull'esercizio sul calcolo dei punteggi del bowling possono essere trovate in quest'altro [repository](https://github.com/valerio-afk/CA-23-001).
 
-Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-23-006**]((https://youtu.be/djGi0R-mF4w)) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
+Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-23-006**](https://youtu.be/djGi0R-mF4w) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
 
 
 # Contatti
